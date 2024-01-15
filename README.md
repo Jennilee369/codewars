@@ -8,7 +8,7 @@ This repo contains every task i completed in codewars
 <img src="https://www.codewars.com/users/aydinlee/badges/large" alt="codewar badge">
 
 
-# CodeWars Challenges: <a target="_blank" href="https://www.codewars.com/users/miraclemoses" >Visit Here</a> 
+# CodeWars Challenges: <a target="_blank" href="https://www.codewars.com/users/aydinlee" >Visit Here</a> 
 
 
 A repository filled with codewars challenges (kata). Currently Completed over 30+ challenges and Push 5 solutions every week.
