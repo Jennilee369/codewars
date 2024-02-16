@@ -11,6 +11,6 @@ returns:
 
 ANSERWS:
 
-function combineNames(first, last){
-  return 'James Stevens'
+function combineNames(firstName, lastName) {
+  return `${firstName} ${lastName}`;
 }
